@@ -1,4 +1,4 @@
-For transaction data, WE use "IEEE-CIS Fraud Detection" which consist of this columns:
+For transaction data, WE use "IEEE-CIS Fraud Detection" (TILL 1048576 ROWS) which consist of this columns:
 
 '''
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
